@@ -1,5 +1,5 @@
 import { BiLogoNodejs } from "react-icons/bi"
-import { DiMongodb, DiMysql } from "react-icons/di"
+import { DiMongodb, DiMysql, DiPython } from "react-icons/di"
 import { RiReactjsLine } from "react-icons/ri"
 import { SiExpress } from "react-icons/si"
 import { TbBrandNextjs } from "react-icons/tb"
@@ -43,7 +43,7 @@ const Technologies = () => {
             </motion.div>
       
             <motion.div initial="initial" animate="animate" variants={iconVarients(2.5)} className="p-4">
-              <TbBrandNextjs className="text-7xl" />
+              <DiPython className="text-7xl" />
             </motion.div>
       
             <motion.div initial="initial" animate="animate" variants={iconVarients(3)} className="p-4">
