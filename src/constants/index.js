@@ -64,7 +64,7 @@ export const PROJECTS = [
     link:"https://github.com/Shashikadinuwan/Online-Voting-System-For-AN"
   },
   {
-    title: "Ptient Managment System",
+    title: "Patient Managment System",
     image: project4,
     description:
       "A platform manage patient for hospital.",
